@@ -5,7 +5,7 @@ Materials and Jekyll website for the Wednesday software working group.
 ##Calendar
 
 ###September 2015
-- 2nd: Jake
+- 2nd: Jake -- code review of the [gatspy package](http://github.com/astroML/gatspy/)
 - 9th: Valentina
 - 16th: Jose
 - 23rd: Joe
