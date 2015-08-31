@@ -7,9 +7,9 @@ Materials and Jekyll website for the Wednesday software working group.
 ###September 2015
 - 2nd: Jake -- code review of the [gatspy package](http://github.com/astroML/gatspy/)
 - 9th: Valentina
-- 16th: Jose
+- 16th: Rahul
 - 23rd: Joe
-- 30th:  OPEN
+- 30th: Jose
 
 ###October 2015
 - 7th: X (DSE summit)
@@ -20,12 +20,12 @@ Materials and Jekyll website for the Wednesday software working group.
 ###November 2015
 - 4th: Bernease
 - 11th: X
-- 18th: X
-- 25th: X
+- 18th: David
+- 25th: X (Thanksgiving)
 
 ###December 2015
 - 2nd: Ariel
 - 9th: Bill 
-- 16th: X
-- 23rd: X
-- 30th: X
+- 16th: ? (Holidays)
+- 23rd: X (Holidays)
+- 30th: X (Holidays)
