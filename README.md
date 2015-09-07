@@ -6,7 +6,7 @@ Materials and Jekyll website for the Wednesday software working group.
 
 ###September 2015
 - 2nd: Jake -- code review of the [gatspy package](http://github.com/astroML/gatspy/)
-- 9th: Valentina
+- 9th: Richard Decal -- code review for [RoboSkeeter Agent Model](https://github.com/isomerase/RoboSkeeter/blob/master/agent_model/agent3D.py)
 - 16th: Rahul
 - 23rd: Joe
 - 30th: Jose
