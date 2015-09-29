@@ -8,8 +8,8 @@ Materials and Jekyll website for the Wednesday software working group.
 - 2nd: Jake -- code review of the [gatspy package](http://github.com/astroML/gatspy/)
 - 9th: Richard Decal -- code review for [RoboSkeeter Agent Model](https://github.com/isomerase/RoboSkeeter/blob/master/agent_model/agent3D.py)
 - 16th: Jose Manuel
-- 23rd: Joe
-- 30th: Rahul
+- 23rd: Joe -- architecture for SciSheets
+- 30th: discussion on office hours for data & research scientists, led by Sarah
 
 ###October 2015
 - 7th: X (DSE summit)
