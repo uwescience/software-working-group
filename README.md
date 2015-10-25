@@ -24,8 +24,8 @@ Materials and Jekyll website for the Wednesday software working group.
 - 25th: X (Thanksgiving)
 
 ###December 2015
-- 2nd: Ariel
-- 9th: Bill 
+- 2nd: Bill
+- 9th: Ariel 
 - 16th: ? (Holidays)
 - 23rd: X (Holidays)
 - 30th: X (Holidays)
