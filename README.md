@@ -18,7 +18,7 @@ Materials and Jekyll website for the Wednesday software working group.
 - 28th: Valentina
 
 ###November 2015
-- 4th: Bernease
+- 4th: Bernease -- discussion of automating data science insight and this paper: https://groups.csail.mit.edu/EVO-DesignOpt/groupWebSite/uploads/Site/DSAA_DSM_2015.pdf 
 - 11th: X
 - 18th: David
 - 25th: X (Thanksgiving)
