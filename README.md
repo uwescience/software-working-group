@@ -6,10 +6,10 @@ Materials and Jekyll website for the Wednesday software working group.
 
 ### January 2016
 
- - Wed, Jan 6 -
- - Thur, Jan 14 -
- - Thur, Jan 21 -
- - Thur, Jan 28 -
+ - Wed, Jan 6 - Planning
+ - Thur, Jan 14 - Bill (Data privacy)
+ - Thur, Jan 21 - Ariel
+ - Thur, Jan 28 - Bernease, AWS architecture, wildfire simulation
 
 ### February 2016
 
