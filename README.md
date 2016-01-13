@@ -8,7 +8,7 @@ Materials and Jekyll website for the Wednesday software working group.
 
  - Wed, Jan 6 - Planning
  - Thur, Jan 14 - Bill (Data privacy)
- - Thur, Jan 21 - Ariel
+ - Thur, Jan 21 - Sven Dorkenwald - Scaling up 3D Non-Local Means denoising with Spark
  - Thur, Jan 28 - Bernease, AWS architecture, wildfire simulation
 
 ### February 2016
