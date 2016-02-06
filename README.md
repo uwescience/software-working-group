@@ -20,7 +20,7 @@ Materials and Jekyll website for the Thursday software working group.
 
 ### March 2016
 
- - Thur, Mar 4 -
- - Thur, Mar 11 -
- - Thur, Mar 18 -
- - Thur, Mar 25 -
+ - Thur, Mar 3 -
+ - Thur, Mar 10 -
+ - Thur, Mar 17 -
+ - Thur, Mar 24 -
