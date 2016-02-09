@@ -1,6 +1,6 @@
 # software-working-group
 
-Materials and Jekyll website for the Wednesday software working group.
+Materials and Jekyll website for the Thursday software working group.
 
 ##Calendar
 
@@ -14,13 +14,13 @@ Materials and Jekyll website for the Wednesday software working group.
 ### February 2016
 
  - Thur, Feb 4 - Sophie Clayton, code review (hosted by Bill)
- - Thur, Feb 11 - 
- - Thur, Feb 18 - 
- - Thur, Feb 25 - 
+ - Thur, Feb 11 -
+ - Thur, Feb 18 -
+ - Thur, Feb 25 -
 
 ### March 2016
 
- - Thur, Mar 4 -
- - Thur, Mar 11 -
- - Thur, Mar 18 - 
- - Thur, Mar 25 -
+ - Thur, Mar 3 -
+ - Thur, Mar 10 -
+ - Thur, Mar 17 -
+ - Thur, Mar 24 -
