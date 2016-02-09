@@ -14,9 +14,9 @@ Materials and Jekyll website for the Thursday software working group.
 ### February 2016
 
  - Thur, Feb 4 - Sophie Clayton, code review (hosted by Bill)
- - Thur, Feb 11 -
- - Thur, Feb 18 -
- - Thur, Feb 25 -
+ - Thur, Feb 11 - Jes Ford, code review of my [cluster-lensing](https://github.com/jesford/cluster-lensing) project
+ - Thur, Feb 18 - 
+ - Thur, Feb 25 - 
 
 ### March 2016
 
