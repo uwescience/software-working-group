@@ -20,7 +20,7 @@ Materials and Jekyll website for the Wednesday software working group.
 
 ### March 2016
 
- - Thur, Mar 4 -
- - Thur, Mar 11 -
- - Thur, Mar 18 - 
- - Thur, Mar 25 -
+ - Thur, Mar 3 -
+ - Thur, Mar 10 - Joe Hellerstein (SciSheets Demo)
+ - Thur, Mar 17 - 
+ - Thur, Mar 24 -
