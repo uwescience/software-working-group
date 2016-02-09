@@ -15,7 +15,7 @@ Materials and Jekyll website for the Wednesday software working group.
 
  - Thur, Feb 4 - Sophie Clayton, code review (hosted by Bill)
  - Thur, Feb 11 - 
- - Thur, Feb 18 - Joe Hellerstein (SciSheets Demo)
+ - Thur, Feb 18 -
  - Thur, Feb 25 - 
 
 ### March 2016
