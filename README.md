@@ -21,6 +21,6 @@ Materials and Jekyll website for the Thursday software working group.
 ### March 2016
 
  - Thur, Mar 3 -
- - Thur, Mar 10 -
+ - Thur, Mar 10 - Joe Hellerstien, scisheet demo
  - Thur, Mar 17 -
  - Thur, Mar 24 -
