@@ -16,11 +16,11 @@ Materials and Jekyll website for the Thursday software working group.
  - Thur, Feb 4 - Sophie Clayton, code review (hosted by Bill)
  - Thur, Feb 11 - Jes Ford, code review of my [cluster-lensing](https://github.com/jesford/cluster-lensing) project
  - Thur, Feb 18 - Experience with Google Drive for unlimited storage, plus some tools (David Beck)
- - Thur, Feb 25 - 
+ - Thur, Feb 25 -
 
 ### March 2016
 
  - Thur, Mar 3 -
- - Thur, Mar 10 - Joe Hellerstien, scisheet demo
- - Thur, Mar 17 -
+ - Thur, Mar 10 - SWC instructor training
+ - Thur, Mar 17 - Joe Hellerstien, scisheet demo
  - Thur, Mar 24 -
