@@ -22,7 +22,7 @@ Materials and Jekyll website for the Thursday software working group.
 
  - Thur, Mar 3 -
  - Thur, Mar 10 - SWC instructor training
- - Thur, Mar 17 - 
+ - Thur, Mar 17 - Incubator presentations
  - Thur, Mar 24 - TechConnect conference
  - Thur, Mar 31 - Software Carpentry 
  
