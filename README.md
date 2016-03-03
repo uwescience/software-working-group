@@ -22,9 +22,9 @@ Materials and Jekyll website for the Thursday software working group.
 
  - Thur, Mar 3 -
  - Thur, Mar 10 - SWC instructor training
- - Thur, Mar 17 - Joe Hellerstien, scisheet demo
- - Thur, Mar 24 -
- - 
+ - Thur, Mar 17 - 
+ - Thur, Mar 24 - TechConnect conference
+ - Thur, Mar 31 - Software Carpentry 
  ### April 2016
- 
+ - April 7th - Joe Hellerstien, scisheet demo
  - April 14th - Britta: codesign consulting/mentorship/?? feedback protocol.
