@@ -1,6 +1,6 @@
 # software-working-group
 
-Materials and Jekyll website for the Thursday software working group.
+Materials for the UW eScience software working group meeting, Thursdays at 3 pm in the WRF Data Science Studio
 
 ##Calendar
 
