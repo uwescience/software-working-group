@@ -30,3 +30,4 @@ Materials for the UW eScience software working group meeting, Thursdays at 3 pm 
 
  - April 7th - Joe Hellerstien, scisheet demo
  - April 14th - Britta: codesign consulting/mentorship/?? feedback protocol.
+ - April 21st - Daniel Viragh
