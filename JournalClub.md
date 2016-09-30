@@ -18,13 +18,13 @@ SJC is primarily a discussion forum. Topics include the following.
 content and application of new software technologies such as a python scientific
 package or a software design pattern.
 
-- Code review. Code reviews are a discussion of
-the design and packaging of a software project.
-This may be a project that you have created, or it could be
-a project that you want to learn about.
-The purpose of the review is to discuss the problem being
+- Code review. 
+Code reviews are a discussion of
+the problem being
 addressed by the software, the technical approaches used
 in the solution, and the manner in which the code is engineered.
+This may be a project that you have created, or it could be
+a project that you want to learn about.
 Much like a literature review, the intent is that the discussion will
 involve comparisons with other projects.
 
@@ -36,4 +36,4 @@ how to approach a problem.
 ## How We Do It
 SJC meets approximately once a month.
 Requests to be on the agenda should be submitted to the Chair of the eScience Software Working
-Group who will have the final say about scheduling.
+Group who controls the agenda for the SJC.
