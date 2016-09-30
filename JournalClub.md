@@ -1,10 +1,10 @@
 # Software Journal Club (SJC)
 
 ## Background
-Building and using software is an essential part modern scientific research.
-With new software technologies being created at an ever rapid pace, it can be
+Building and using software is an essential part of modern scientific research.
+With new software technologies being created at an ever rapid pace, it is
 challenging for researchers to learn about new capabilities that can enhance their
-productivity.
+research productivity and effectivenes.
 The Software Journal Club provides a community and resources for learning about
 software technologies, best practices, and applications.
 Our vision is that software should be treated as a kind of literature that should
