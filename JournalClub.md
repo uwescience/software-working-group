@@ -15,7 +15,7 @@ The intent is to serve both mature software developers as well as software begin
 SJC is primarily a discussion forum. Topics include the following.
 
 - Technology reviews. This will be a discussion of the
-content and application of new software technologies such as a python scientific
+content and application of software technologies such as a python scientific
 package or a software design pattern.
 
 - Code review. 
