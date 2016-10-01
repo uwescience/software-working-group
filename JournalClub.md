@@ -61,11 +61,13 @@ and someone pointed out a very simple approach that was implementable within a c
 
 - "I only want tech reviews; will you announce the meeting topics ahead of time?"
 
-..* An agenda will be posted in advanced so that you can focus on your areas of interest.
+ - An agenda will be posted in advanced so that you can focus on your areas of interest.
 
 - "I'd like to present my software; can I do that?"
 
+ - Just sign up!
+
 - "How big of a group will this be?"
 
-..* The size will vary depending on interest in the topic being discussed, likely between
+ - The size will vary depending on interest in the topic being discussed, likely between
 ten and twenty attendees.
