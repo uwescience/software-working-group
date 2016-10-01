@@ -45,13 +45,13 @@ Group who controls the agenda for the SJC.
 
 - "I already know a lot about software.  Will I learn anything?"
 
-Possibly. There's a lot to learn. But you may still find value in
+ - Possibly. There's a lot to learn. But you may still find value in
 connecting with a community with whom you can discuss software problems.
 And, of course, you may be able to answer questions that others have.
 
 - "I have no idea what a code review is.  Why is this important?"
 
-..* A code review is a discussion of the software problem you are trying to solve
+ - A code review is a discussion of the software problem you are trying to solve
 and how you are solving it.
 For example, it may be that they problem you want to solve is already handled
 by existing open source software, which might save you a lot of time.
