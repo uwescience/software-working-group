@@ -8,10 +8,10 @@ Materials for the UW eScience software working group meeting, Thursdays at 3 pm 
 
 ### Fall 2016 Dates
 
-- Thurs, Oct 13: Jake VanderPlas, Altair
+- Thurs, Oct 13: Jake VanderPlas, walk-through the design of the [Altair](http://altair-viz.github.io/) library
 - Thurs, Nov 3rd: Rahul Biswas, TBD
 - Thurs Nov 17th: Joe Hellerstein, TBD
-- Thurs Dec 1st: TBD
+- Thurs Dec 1st: Bernease Herman, General discussion of Functional Programming
 
 
 ## Previous Calendars
