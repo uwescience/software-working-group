@@ -2,7 +2,19 @@
 
 Materials for the UW eScience software working group meeting, Thursdays at 3 pm in the WRF Data Science Studio
 
-##Calendar
+## Calendar
+
+[Software Journal Club](JournalClub.md)
+
+### Fall 2016 Dates
+
+- Thurs, Oct 13: Jake VanderPlas, Altair
+- Thurs, Nov 3rd: Rahul Biswas, TBD
+- Thurs Nov 17th: Joe Hellerstein, TBD
+- Thurs Dec 1st: TBD
+
+
+## Previous Calendars
 
 ### January 2016
 
