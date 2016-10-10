@@ -1,5 +1,7 @@
 # software-working-group
 
+[![Join the chat at https://gitter.im/uwescience/software-working-group](https://badges.gitter.im/uwescience/software-working-group.svg)](https://gitter.im/uwescience/software-working-group?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Materials for the UW eScience software working group meeting, Thursdays at 3 pm in the WRF Data Science Studio
 
 ## Calendar
