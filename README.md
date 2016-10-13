@@ -1,17 +1,16 @@
 # software-working-group
 
-Materials for the UW eScience software working group meeting, Thursdays at 3 pm in the WRF Data Science Studio
+Materials for the UW eScience software working group meeting, Thursdays at 3 pm in the WRF Data Science Studio.
 
-## Calendar
+This quarter we will alternate between normal working group meetings, and a [Software Journal Club](JournalClub.md) in which we will discuss software, design patterns, and related issues as they pertain to computational research.
+The Software Journal Club dates for this quarter are as follows:
 
-[Software Journal Club](JournalClub.md)
+- Thurs, Oct 13 2016: Jake VanderPlas, walk-through the design of the [Altair](http://altair-viz.github.io/) library
+- Thurs, Nov 3rd 2016: Rahul Biswas, TBD
+- Thurs Nov 17th 2016: Joe Hellerstein, TBD
+- Thurs Dec 1st 2016: Bernease Herman, General discussion of Functional Programming
 
-### Fall 2016 Dates
-
-- Thurs, Oct 13: Jake VanderPlas, walk-through the design of the [Altair](http://altair-viz.github.io/) library
-- Thurs, Nov 3rd: Rahul Biswas, TBD
-- Thurs Nov 17th: Joe Hellerstein, TBD
-- Thurs Dec 1st: Bernease Herman, General discussion of Functional Programming
+All are welcome to attend!
 
 
 ## Previous Calendars
