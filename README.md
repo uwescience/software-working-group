@@ -7,7 +7,7 @@ The Software Journal Club dates for this quarter are as follows:
 
 - Thurs, Oct 13 2016: Jake VanderPlas, walk-through the design of the [Altair](http://altair-viz.github.io/) library
 - Thurs, Nov 3rd 2016: Rahul Biswas, TBD
-- Thurs Nov 17th 2016: Joe Hellerstein, TBD
+- Thurs Nov 17th 2016: Joe Hellerstein, Creating reproducible spreadsheets in Jupyter
 - Thurs Dec 1st 2016: Bernease Herman, General discussion of Functional Programming
 
 All are welcome to attend!
