@@ -2,6 +2,19 @@
 
 Materials for the UW eScience software working group meeting, Thursdays at 3 pm in the WRF Data Science Studio.
 
+- Jan 19: Ariel Rokem: code review & discussion of popylar
+- Feb 2: TBA
+- Feb 16: TBA
+- Mar 2: TBA
+- Mar 16: TBA
+
+All are welcome to attend!
+
+
+## Previous Calendars
+
+### Fall 2016
+
 This quarter we will alternate between normal working group meetings, and a [Software Journal Club](JournalClub.md) in which we will discuss software, design patterns, and related issues as they pertain to computational research.
 The Software Journal Club dates for this quarter are as follows:
 
@@ -9,11 +22,6 @@ The Software Journal Club dates for this quarter are as follows:
 - Thurs, Nov 3rd 2016: Rahul Biswas, TBD
 - Thurs Nov 17th 2016: Joe Hellerstein, Creating reproducible spreadsheets in Jupyter
 - Thurs Dec 1st 2016: Bernease Herman, General discussion of Functional Programming
-
-All are welcome to attend!
-
-
-## Previous Calendars
 
 ### January 2016
 
