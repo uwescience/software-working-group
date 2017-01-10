@@ -2,7 +2,7 @@
 
 Materials for the UW eScience software working group meeting, Thursdays at 3 pm in the WRF Data Science Studio.
 
-- Jan 19: Ariel Rokem: code review & discussion of popylar
+- Jan 19: Ariel Rokem: code review & discussion of [popylar](https://github.com/popylar/popylar)
 - Feb 2: TBA
 - Feb 16: TBA
 - Mar 2: TBA
