@@ -3,9 +3,9 @@
 Materials for the UW eScience software working group meeting, Thursdays at 3 pm in the WRF Data Science Studio.
 
 - Jan 19: Ariel Rokem: code review & discussion of [popylar](https://github.com/popylar/popylar)
-- Feb 2: TBA
-- Feb 16: TBA
-- Mar 2: TBA
+- Feb 2: [cancelled]
+- Feb 16: Brett Morris: astroplan
+- Mar 2: Allison Smith: Thoughts on Docker for Scientific Research
 - Mar 16: TBA
 
 All are welcome to attend!
